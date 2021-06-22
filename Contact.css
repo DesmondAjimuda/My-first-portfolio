@@ -1,0 +1,144 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  line-height: 1.2;
+  font-size: 3rem;
+  font-weight: 300;
+  margin: 60px 847px 0 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 457px;
+  background-image: url("images/IMG_2048.JPG");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 457px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 30px 13px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 353px;
+  width: 690px;
+  margin: 60px 0 0;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-size: 1.25rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 647px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 377px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 377px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 0;
+    width: 557px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 427px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 289px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 410px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 800px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 247px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 589px;
+    background-position: 50% 0%;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 0 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 402px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 35px;
+    margin-right: 47px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 371px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 320px;
+  }
+}
